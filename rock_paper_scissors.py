@@ -25,7 +25,7 @@ scissors = '''
 ---.__(___)
 '''
 import random
-#Write your code below this line 👇
+
 images=[rock,paper,scissors]
 u_choice=int(input("Enter ur choice 0 for Rock,1 for paper and 2 for scissors\n"))
 if u_choice>2 or u_choice<0:
